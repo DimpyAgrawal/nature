@@ -1,0 +1,177 @@
+*{
+    margin:0;
+    padding: 0;
+    
+}
+/* a{
+    text-decoration: none;
+    color: white;
+    
+}
+a:hover{
+    color: bisque;
+}
+li{
+    list-style: none;
+    margin: 50px;
+    
+  
+}
+#logo{
+    display: flex;
+    font-size: 50px;
+   
+}
+#image{
+    margin-top: 15px;
+    margin-left: 10px ;
+    font-size: 40px;
+}
+nav{
+    display: flex;
+    background-color: rgb(75, 75, 75);
+    height: 80px;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+  
+    
+    
+}
+ul{
+    display: flex;
+   
+}*/
+ 
+#button{
+    margin-top: 35px;
+    margin-left: 420px;
+    height: 30px;
+    width: 100px;
+    border-radius: 10px;
+    background-color: rgb(75, 75, 75);
+}
+
+#button:hover{
+    background-color: bisque;
+} 
+
+ul {
+    list-style-type: none; 
+ }
+nav {
+    
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    justify-content: center; 
+    display: flex;
+    padding-top: 0px;
+    border: 2px solid rgb(55, 55, 55);
+    max-width: 100%;
+    min-height: 100%;
+    margin: auto;
+    background-color: rgb(55, 55, 55);;
+     
+ }
+
+ a{
+    text-decoration: none;
+    color:palevioletred;
+ }
+ a:hover{
+    color: white;
+ }
+ li{
+    display: inline-block;
+    margin: 5px;
+    padding: 5px;
+    font-size: 20px;  
+ }
+ #h1{
+    text-align: center;
+    color:white;
+    background-color: rgb(62, 60, 60);
+    border: 2px solid rgb(55, 55, 55);
+    margin-top: 5px;
+    margin-bottom: 5px;
+ }
+ /* #logo{
+    display: flex;
+    font-size: 50px;
+   
+} */
+/* #image{
+    margin-top: 15px;
+    margin-left: 10px ;
+    font-size: 40px;
+} */
+
+#h3{
+    color: rgb(162, 162, 192);
+    margin-top: 10px;
+    
+}
+
+#secondpara{
+    background-color: antiquewhite;
+    border-radius: 10px;
+  
+}   
+
+#images{
+    margin-top: 10px;
+ 
+}
+
+div img{
+    border-radius: 10px;
+    margin: 5px 5px 5px 5px;
+}
+
+#thirdpara{
+    text-align: center;
+    background-image: url("https://images.unsplash.com/photo-1500622944204-b135684e99fd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1461&q=80");
+    word-wrap: wrap;
+}
+
+#secondbutton{
+    border-radius: 10px;
+    border-color: rgb(189, 189, 240);
+    padding: 5px;
+    width: auto;
+}
+
+#secondbutton:hover{
+    background-color: bisque;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#fourthpara{
+    display: flex;
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    justify-content: center;
+
+}
+
+#fourthpara div{
+    margin: 30px 30px 30px 30px;
+}
+
+#p{
+    display: flex;
+    margin: 10px;
+}
+button{
+    border-radius: 10px;
+    border-color: rgb(189, 189, 240);
+    padding: 5px;
+    width: auto;
+}
+
+
+
+   
